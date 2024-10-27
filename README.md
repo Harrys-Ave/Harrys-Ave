@@ -8,49 +8,41 @@
 
 ---
 
-Welcome to my GitHub portfolio! I am a dedicated data scientist with a strong foundation in economics and extensive hands-on experience in machine learning, deep learning, data warehousing, and business intelligence. My goal is to leverage data-driven insights to solve real-world problems, combining analytical rigor with practical application.
+Welcome to my GitHub portfolio! I am a data scientist with a solid foundation in economics and advanced expertise in machine learning, deep learning, and business intelligence. With a blend of academic distinction and professional experience, my goal is to harness data-driven insights to address complex real-world problems.
 
 ---
 
 ## 🔹 Professional Summary
 
-I bring a unique blend of skills in data analysis, product marketing, and business intelligence developed through industry experience in insurance and competition regulation. With expertise in machine learning and data science. I have a proven track record of driving data-informed decisions and crafting innovative solutions.
+My background combines data science, business intelligence, and economic analysis, with hands-on experience in both corporate and regulatory environments. I excel in developing predictive models, crafting business insights, and building data-driven solutions that have a tangible impact on decision-making and strategic planning.
+
 
 ## 🔹 Core Skills and Technical Proficiency
 
-- **Data Science**: Python (scikit-learn, pandas, NumPy, TensorFlow, PyTorch, Keras, Keras Tuner, Seaborn, Matplotlib, SHAP), R, SQL, Pentaho, Jupyter Notebooks
-- **Machine Learning**: Supervised and unsupervised learning (Random Forest, NLP, CNN, RNN, LSTM etc.)
-- **Data Visualization**: Qlik, Tableau, Matplotlib, Seaborn
-- **Database Management**: MySQL, ETL processes, Data Warehousing, OLTP schemas
-- **Other Tools**: Git, MS Excel, Microsoft 365
+- **Languages**: Python, SQL, R
+- **Data Science & Machine Learning**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
+- **Data Visualization & BI**: Qlik, Tableau, Matplotlib, Pentaho Data Integration
+- **Database & DW Design**: MySQL, MySQL Workbench, Data Warehousing, OLTP schemas
+- **NLP & Text Processing**: TFidf, Count Vectorizer, Hashing Vectorizer
+- **ETL & Reporting**: Pentaho Report Designer
 
 ---
 
 ## 📂 Projects
 
-### 1. **Master’s Thesis: Earthquake Forecasting with Deep Learning**
-   - **Goal**: Predict significant earthquakes using deep learning, specifically RNNs.
-   - **Methodology**: Utilized a dataset from the USGS and applied feature engineering and time series modeling with LSTM-based models. Integrated Semivariogram Analysis for spatial correlation and applied error analysis techniques.
-   - **Technologies**: Python, TensorFlow, MySQL, Git
-   - **Repository**: [Earthquake Forecasting Project](https://github.com/Harrys-Ave/earthquake-forecasting)
+Here’s an overview of the repositories featured in my portfolio:
 
-### 2. **NLP Model for Predicting Publication Years**
-   - **Goal**: Developed a model to predict the publication year of scientific papers based on text features.
-   - **Approach**: Applied various vectorizers and selected HashingVectorizer for optimal performance. Experimented with Ridge Regression, Random Forest, and MLP, with Ridge achieving the best MAE.
-   - **Technologies**: Python (scikit-learn), NLP, RandomizedSearchCV
-   - **Repository**: [NLP Year Prediction Project](https://github.com/Harrys-Ave/nlp-year-prediction)
+- **[Earthquake Time Series Forecasting - RNN](https://github.com/Harrys-Ave/Earthquake-Time-Series-Forecasting-RNN)**  
+   Developed a forecasting model for significant earthquake events using Recurrent Neural Networks (RNNs) enhanced with Semivariogram Analysis to capture spatial dependencies. This project applied advanced deep learning and feature engineering techniques to tackle the complexity of seismic event prediction.
 
-### 3. **Business Intelligence Project: Sales Monitoring for Car Company**
-   - **Goal**: Built a data warehouse for monitoring sales within an automobile company.
-   - **Process**: Created OLTP and DW schemas, implemented ETL processes in Pentaho, and developed a star schema with sales as the central fact table.
-   - **Technologies**: MySQL, Pentaho Data Integration, SQL, Data Warehouse modeling
-   - **Repository**: [Car Company DW Project](https://github.com/Harrys-Ave/car-company-dw)
+- **[Predicting the Year of Publication for Scientific Papers](https://github.com/Harrys-Ave/Year-of-Publication-Prediction)**  
+   Used machine learning and NLP methods to predict the publication year of scientific papers. This project involved extensive preprocessing, feature extraction with vectorizers, and model experimentation, achieving optimal results with Ridge Regression.
 
-### 4. **Deep Learning for Cancer Diagnosis**
-   - **Goal**: Used CNNs to classify medical images of lung and colon cancers.
-   - **Approach**: Applied Convolutional Neural Networks for image classification, leveraging medical image datasets.
-   - **Technologies**: Python, TensorFlow, Keras
-   - **Repository**: [Cancer Diagnosis Project](https://github.com/Harrys-Ave/cancer-diagnosis-cnn)
+- **[Business Intelligence Project for CarCompany](https://github.com/Harrys-Ave/CarCompany-Business-Intelligence-Project)**  
+   Built a Data Warehouse (DW) for CarCompany to centralize data and monitor sales, performance metrics, and customer insights. The project includes an OLTP schema, ETL processes, star schema DW design, and visualization/reporting using Pentaho and MySQL.
+
+- **[Classifying Cancer Tissue Images Using CNNs](https://github.com/Harrys-Ave/Lung-Colon-Cancer-Classification-CNNs)**  
+   Developed a deep learning model to classify lung and colon cancer tissue images. This project applied CNNs and transfer learning with VGG16, achieving high accuracy in multi-class classification, essential for medical diagnostics.
 
 ---
 
@@ -73,7 +65,8 @@ I bring a unique blend of skills in data analysis, product marketing, and busine
 ## 🎓 Education
 
 - **MSc Data Science and Society (Distinction)** - Tilburg University
-  - Specialized in machine learning, deep learning, NLP, and business intelligence.
+  - Graduated with Distinction
+  - Specialized in machine learning, deep learning, data mining, and business intelligence.
   - Thesis on earthquake prediction using deep learning.
   
 - **BSc Economics** - University of Piraeus
@@ -86,13 +79,6 @@ I bring a unique blend of skills in data analysis, product marketing, and busine
 - **Scout Leader | Scouts of Greece**  
   Led a team of 6, organized large-scale events, and managed budgets effectively, demonstrating strong leadership and project management skills.
 
----
-
-## 🏆 Notable Skills Gained
-
-- **Data Science**: Time series analysis, deep learning (CNN, RNN), machine learning for NLP.
-- **Data Engineering**: ETL, data warehousing, OLTP and DW schema design.
-- **Business Intelligence**: Market analysis, product lifecycle management, decision-support analytics.
 
 ---
 
