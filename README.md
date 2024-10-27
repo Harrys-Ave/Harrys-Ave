@@ -87,5 +87,4 @@ Here’s an overview of the repositories featured in my portfolio:
 Feel free to explore my repositories for a detailed look at my projects and reach out to discuss potential collaborations, job opportunities, or just to chat about data science!
 
 📧 [ch.averkiadis@gmail.com](mailto:ch.averkiadis@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/harrys-ave) | [GitHub](https://github.com/Harrys-Ave)
-
+🌐 [LinkedIn](https://www.linkedin.com/in/averkiadis) | [GitHub](https://github.com/Harrys-Ave)
