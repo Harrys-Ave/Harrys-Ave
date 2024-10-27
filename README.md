@@ -22,8 +22,8 @@ My background combines data science, business intelligence, and economic analysi
 - **Languages**: Python, SQL, R
 - **Data Science & Machine Learning**: scikit-learn, pandas, NumPy, TensorFlow, PyTorch, Keras, Keras Tuner, Seaborn, Matplotlib, SHAP
 - **Data Visualization & BI**: Qlik, Tableau, Matplotlib, Pentaho Data Integration
-- **Database & DW Design**: MySQL, MySQL Workbench, Data Warehousing, OLTP schemas
-- **NLP & Text Processing**: TFidf, Count Vectorizer, Hashing Vectorizer
+- **Database & DW Design**: MySQL, MySQL Workbench, Data Warehousing, OLTP and DW schemas
+- **NLP & Text Processing**: TFidf, Count Vectorizer, Hashing Vectorizer etc.
 - **ETL & Reporting**: Pentaho Report Designer
 
 ---
