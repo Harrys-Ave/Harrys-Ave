@@ -3,7 +3,7 @@
 📍 **Tilburg, Netherlands**  
 📧 **[ch.averkiadis@gmail.com](mailto:ch.averkiadis@gmail.com)**  
 💼 **Data Scientist & Economist | MSc with Distinction in Data Science and Society | BSc in Economics**  
-🌐 **LinkedIn**: [linkedin.com/in/harrys-ave](https://www.linkedin.com/in/harrys-ave)  
+🌐 **LinkedIn**: [[linkedin.com/in/harrys-ave](https://www.linkedin.com/in/harrys-ave)](https://www.linkedin.com/in/averkiadis/)  
 🔗 **GitHub**: [github.com/Harrys-Ave](https://github.com/Harrys-Ave)  
 
 ---
