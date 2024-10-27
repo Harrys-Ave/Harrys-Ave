@@ -67,6 +67,7 @@ Here’s an overview of the repositories featured in my portfolio:
 - **MSc Data Science and Society (Distinction)** - Tilburg University
   - Graduated with Distinction
   - Specialized in machine learning, deep learning, data mining, and business intelligence.
+  - Hands-on experience with diverse datasets, including text, time series, and images
   - Thesis on earthquake prediction using deep learning.
   
 - **BSc Economics** - University of Piraeus
