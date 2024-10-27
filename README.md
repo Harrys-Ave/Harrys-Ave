@@ -1,6 +1,3 @@
-# Hi there 👋
-
-
 # Harry Averkiadis
 
 📍 **Tilburg, Netherlands**  
