@@ -21,7 +21,7 @@ My background combines data science, business intelligence, and economic analysi
 
 - **Languages**: Python, SQL, R
 - **Data Science & Machine Learning**: scikit-learn, pandas, NumPy, TensorFlow, PyTorch, Keras, Keras Tuner, Seaborn, Matplotlib, SHAP
-- **Data Visualization & BI**: Qlik, Tableau, Matplotlib, Pentaho Data Integration
+- **Data Visualization & BI**: Qlik, Power BI, Tableau, Matplotlib, Pentaho Data Integration
 - **Database & DW Design**: MySQL, MySQL Workbench, Data Warehousing, OLTP and DW schemas
 - **NLP & Text Processing**: TFidf, Count Vectorizer, Hashing Vectorizer etc.
 - **ETL & Reporting**: Pentaho Report Designer
@@ -44,6 +44,8 @@ Here’s an overview of the repositories featured in my portfolio:
 - **[Classifying Cancer Tissue Images Using CNNs](https://github.com/Harrys-Ave/Lung-Colon-Cancer-Classification-CNNs)**  
    Developed a deep learning model to classify lung and colon cancer tissue images. This project applied CNNs and transfer learning with VGG16, achieving high accuracy in multi-class classification, essential for medical diagnostics.
 
+- **[Atlas Labs HR Analytics Dashboard - Power BI](https://github.com/Harrys-Ave/AtlasLabs-HR-Analytics-PowerBI)**  
+   Developed an interactive HR Analytics dashboard in Power BI for Atlas Labs, a fictitious company, as part of DataCamp's HR Analytics case study. The report provides insights into hiring trends, diversity and inclusion, performance, and attrition, empowering HR stakeholders to make data-driven decisions.
 ---
 
 ## 📈 Work Experience
