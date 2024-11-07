@@ -38,10 +38,10 @@ Here’s an overview of the repositories featured in my portfolio:
 - **[Predicting the Year of Publication for Scientific Papers](https://github.com/Harrys-Ave/Year-of-Publication-Prediction)**  
    Used machine learning and NLP methods to predict the publication year of scientific papers. This project involved extensive preprocessing, feature extraction with vectorizers, and model experimentation, achieving optimal results with Ridge Regression.
 
-- **[Business Intelligence Project for CarCompany](https://github.com/Harrys-Ave/CarCompany-Business-Intelligence-Project)**  
+- **[Business Intelligence Project for CarCompany](https://github.com/Harrys-Ave/Business-Intelligence-Project)**  
    Built a Data Warehouse (DW) for CarCompany to centralize data and monitor sales, performance metrics, and customer insights. The project includes an OLTP schema, ETL processes, star schema DW design, and visualization/reporting using Pentaho and MySQL.
 
-- **[Classifying Cancer Tissue Images Using CNNs](https://github.com/Harrys-Ave/Lung-Colon-Cancer-Classification-CNNs)**  
+- **[Classifying Cancer Tissue Images Using CNNs](https://github.com/Harrys-Ave/Classifying-Cancer-Tissue-Images-Using-CNN)**  
    Developed a deep learning model to classify lung and colon cancer tissue images. This project applied CNNs and transfer learning with VGG16, achieving high accuracy in multi-class classification, essential for medical diagnostics.
 
 - **[Atlas Labs HR Analytics Dashboard - Power BI](https://github.com/Harrys-Ave/AtlasLabs-HR-Analytics-PowerBI)**  
