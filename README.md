@@ -20,11 +20,10 @@ My background combines data science, business intelligence, and economic analysi
 ## 🔹 Core Skills and Technical Proficiency
 
 - **Languages**: Python, SQL, R
-- **Data Science & Machine Learning**: scikit-learn, pandas, NumPy, TensorFlow, PyTorch, Keras, Keras Tuner, Seaborn, Matplotlib, SHAP
-- **Data Visualization & BI**: Qlik, Power BI, Tableau, Matplotlib, Pentaho Data Integration
-- **Database & DW Design**: MySQL, MySQL Workbench, Data Warehousing, OLTP and DW schemas
+- **Data Science & Machine Learning**: scikit-learn, pandas, NumPy, PySpark, TensorFlow, PyTorch, Keras, Keras Tuner, Seaborn, Matplotlib, SHAP
+- **Data Visualization & BI**: Qlik, Power BI, Tableau, Matplotlib, Pentaho Data Integration, Pentaho Report Designer
+- **Database & DW Design**: MySQL, MySQL Workbench, PostgreSQL, Data Warehousing, OLTP and DW schemas
 - **NLP & Text Processing**: TFidf, Count Vectorizer, Hashing Vectorizer etc.
-- **ETL & Reporting**: Pentaho Report Designer
 
 ---
 
@@ -46,6 +45,9 @@ Here’s an overview of the repositories featured in my portfolio:
 
 - **[Atlas Labs HR Analytics Dashboard - Power BI](https://github.com/Harrys-Ave/AtlasLabs-HR-Analytics-PowerBI)**  
    Developed an interactive HR Analytics dashboard in Power BI for Atlas Labs, a fictitious company, as part of DataCamp's HR Analytics case study. The report provides insights into hiring trends, diversity and inclusion, performance, and attrition, empowering HR stakeholders to make data-driven decisions.
+
+- **[Data Processing Pipeline with PySpark and PostgreSQL in Docker](https://github.com/Harrys-Ave/Data-Processing-Pipeline-with-PySpark-and-PostgreSQL-in-Docker/tree/main)**
+  Created a comprehensive data processing pipeline utilizing PySpark for data landing, normalization, and denormalization, integrated with PostgreSQL in a Docker environment. This project involves a series of scripts handling data import, transformation, and denormalization, demonstrating effective data pipeline management.
 ---
 
 ## 📈 Work Experience
