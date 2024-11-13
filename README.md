@@ -46,8 +46,8 @@ Here’s an overview of the repositories featured in my portfolio:
 - **[Atlas Labs HR Analytics Dashboard - Power BI](https://github.com/Harrys-Ave/AtlasLabs-HR-Analytics-PowerBI)**  
    Developed an interactive HR Analytics dashboard in Power BI for Atlas Labs, a fictitious company, as part of DataCamp's HR Analytics case study. The report provides insights into hiring trends, diversity and inclusion, performance, and attrition, empowering HR stakeholders to make data-driven decisions.
 
-- **[Data Processing Pipeline with PySpark and PostgreSQL in Docker](https://github.com/Harrys-Ave/Data-Processing-Pipeline-with-PySpark-and-PostgreSQL-in-Docker/tree/main)**
-  Created a comprehensive data processing pipeline utilizing PySpark for data landing, normalization, and denormalization, integrated with PostgreSQL in a Docker environment. This project involves a series of scripts handling data import, transformation, and denormalization, demonstrating effective data pipeline management.
+- **[Data Processing Pipeline with PySpark and PostgreSQL in Docker](https://github.com/Harrys-Ave/Data-Processing-Pipeline-with-PySpark-and-PostgreSQL-in-Docker/tree/main)**  
+   Created a comprehensive data processing pipeline utilizing PySpark for data landing, normalization, and denormalization, integrated with PostgreSQL in a Docker environment. This project involves a series of scripts handling data import, transformation, and denormalization, demonstrating effective data pipeline management.
 ---
 
 ## 📈 Work Experience
